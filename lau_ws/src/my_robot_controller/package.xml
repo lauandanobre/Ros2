@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>my_robot_controller</name>
-  <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="user@todo.todo">user</maintainer>
-  <license>TODO: License declaration</license>
+  <version>0.1.0</version>
+  <description>Esse é um repositório de estudos do ROS2 Humble</description>
+  <maintainer email="hello-nobre@outlook.com">lauanda nobre</maintainer>
+  <license>Unlicensed</license>
 
   <depend>rclpy</depend>
   <depend>std_msgs</depend>

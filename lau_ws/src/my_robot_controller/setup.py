@@ -4,7 +4,7 @@ package_name = 'my_robot_controller'
 
 setup(
     name=package_name,
-    version='0.0.0',
+    version='0.1.0',
     packages=find_packages(exclude=['test']),
     data_files=[
         ('share/ament_index/resource_index/packages',
@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='user',
-    maintainer_email='user@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='lauanda nobre',
+    maintainer_email='hello-nobre@outlook.com',
+    description='Esse é um repositório de estudos do ROS2 Humble',
+    license='Unlicensed',
     extras_require={
         'test': [
             'pytest',
