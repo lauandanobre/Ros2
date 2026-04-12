@@ -1,0 +1,16 @@
+[0.756s] Invoking command in '/home/user/lau_ws/build/my_robot_controller': PYTHONPATH=/home/user/lau_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/lau_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/lau_ws/build/my_robot_controller/build --no-deps symlink_data
+[1.076s] running develop
+[1.306s] running egg_info
+[1.306s] creating my_robot_controller.egg-info
+[1.307s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.310s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.311s] running build_ext
+[1.312s] running symlink_data
+[1.312s] creating /home/user/lau_ws/install/my_robot_controller/share
+[1.313s] creating /home/user/lau_ws/install/my_robot_controller/share/ament_index
+[1.313s] creating /home/user/lau_ws/install/my_robot_controller/share/ament_index/resource_index
+[1.313s] creating /home/user/lau_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.313s] symbolically linking /home/user/lau_ws/build/my_robot_controller/resource/my_robot_controller -> /home/user/lau_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.313s] creating /home/user/lau_ws/install/my_robot_controller/share/my_robot_controller
+[1.313s] symbolically linking /home/user/lau_ws/build/my_robot_controller/package.xml -> /home/user/lau_ws/install/my_robot_controller/share/my_robot_controller
+[1.343s] Invoked command in '/home/user/lau_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/user/lau_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/lau_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/lau_ws/build/my_robot_controller/build --no-deps symlink_data

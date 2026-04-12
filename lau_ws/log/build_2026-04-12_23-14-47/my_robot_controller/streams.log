@@ -1,0 +1,14 @@
+[0.757s] Invoking command in '/home/user/lau_ws/src/my_robot_controller': PYTHONPATH=/home/user/lau_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/lau_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/user/lau_ws/build/my_robot_controller/build install --record /home/user/lau_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[1.056s] running egg_info
+[1.059s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.059s] running build
+[1.059s] running build_py
+[1.060s] running install
+[1.061s] running install_lib
+[1.062s] running install_data
+[1.062s] copying package.xml -> /home/user/lau_ws/install/my_robot_controller/share/my_robot_controller
+[1.062s] running install_egg_info
+[1.064s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/user/lau_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[1.065s] running install_scripts
+[1.087s] writing list of installed files to '/home/user/lau_ws/build/my_robot_controller/install.log'
+[1.114s] Invoked command in '/home/user/lau_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/user/lau_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/lau_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/user/lau_ws/build/my_robot_controller/build install --record /home/user/lau_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
