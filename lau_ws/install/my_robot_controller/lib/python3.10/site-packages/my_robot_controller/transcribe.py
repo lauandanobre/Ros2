@@ -14,7 +14,7 @@ class Transcrever(Node):
 
     def transcreverFalaEmTexto(self):
         with self.microfone as fonte:
-            # ajustando o reconhecedor para o ruido de fundo
+            # ajustar o reconecedor para o ruido de fundo
             self.reconhecedor.adjust_for_ambient_noise(fonte) 
             
             while rclpy.ok():
