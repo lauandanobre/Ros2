@@ -1,6 +1,8 @@
 # Ros2
-## Esse é um repositório de estudos do ROS2 Humble
-Atualmente possui um workspace de exemplo em ROS2 Humble com um único pacote Python.
+## Esse é um repositório de códigos para robôs que utilizam a biblioteca ROS2
+
+
+# Instruções
 
 O pacote ROS2 está em `src/my_robot_controller`; o nó de exemplo fica em `src/my_robot_controller/my_robot_controller/my_first_node.py`.
 
