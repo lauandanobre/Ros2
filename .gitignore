@@ -1,0 +1,13 @@
+# Colcon / ROS build artifacts
+lau_ws/build/
+lau_ws/install/
+lau_ws/log/
+
+# Python artifacts
+*.pyc
+__pycache__/
+*.egg-info/
+
+# General build artifacts
+build/
+dist/
