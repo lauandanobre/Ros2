@@ -4,8 +4,9 @@ lau_ws/install/
 lau_ws/log/
 
 # Python artifacts
-*.pyc
 __pycache__/
+*.pyc
+*.pyo
 *.egg-info/
 
 # General build artifacts
